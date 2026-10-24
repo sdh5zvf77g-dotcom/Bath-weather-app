@@ -1,0 +1,14 @@
+{
+  "name": "Bath Weather Pro",
+  "short_name": "Bath Weather",
+  "description": "Live weather and local sky dashboard for Bath BA2 1PB",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061321",
+  "theme_color": "#07182a",
+  "icons": [
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"},
+    {"src":"apple-touch-icon.png","sizes":"180x180","type":"image/png"}
+  ]
+}
